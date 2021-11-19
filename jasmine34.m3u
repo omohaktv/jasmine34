@@ -1,0 +1,236 @@
+#EXTM3U
+#EXTINF:-1 WATCH MORE IPTV CHANNELS ON OMOHAK TV
+
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS RACING HD 50FPS (2AM OFF-AUTO BOOT 6.30AM)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64489
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/STARPLUS.png" group-title="UK| UK ASIA",|UK| ASIA- Star Plus.
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50737
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/STAR-BHARAT.png" group-title="UK| UK ASIA",|UK| ASIA- Star Bharat.
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50738
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY%20ASIA.png" group-title="UK| UK ASIA",|UK| ASIA- Sony TV Asia
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50739
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY-MAX.png" group-title="UK| UK ASIA",|UK| ASIA- Sony Max...
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50740
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAB.png" group-title="UK| UK ASIA",|UK| ASIA- Sony Sab.
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50741
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY-MAX.png" group-title="UK| UK ASIA",|UK| ASIA- SONY MAX 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50742
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COLORS%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- Colors TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50743
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- Zee TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50744
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE%20CINEMA.png" group-title="UK| UK ASIA",|UK| ASIA- Zee Cinema.
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50745
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50746
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE-PUNJABI.png" group-title="UK| UK ASIA",|UK| ASIA- Zee Punjabi
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50747
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/matv.png" group-title="UK| UK ASIA",|UK| ASIA- MATV NATIONAL UK V
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50748
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BRIT%20ASIA.png" group-title="UK| UK ASIA",|UK| ASIA- Brit Asia Tv
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50749
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ABP%20NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- Abp News
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50750
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/92%20NEWS.jpg" group-title="UK| UK ASIA",|UK| ASIA- 92 NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50751
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COLORS%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- COLORS CINEPLEX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50752
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RICHTEY%20TV.jpg" group-title="UK| UK ASIA",|UK| ASIA- RISHTEY  TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50753
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LIVING-FOODS.png" group-title="UK| UK ASIA",|UK| ASIA- LIVING FOODZ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50754
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAMAA.png" group-title="UK| UK ASIA",|UK| ASIA- SAMAA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50755
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/b4U.png" group-title="UK| UK ASIA",|UK| ASIA-B4U MUSIC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50756
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HUM-MOSALAHA.png" group-title="UK| UK ASIA",|UK| ASIA- HUM MASALA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50757
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/URDU.png" group-title="UK| UK ASIA",|UK| ASIA- URDU 1 EUROPE  UK V
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50758
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PTV-GLOBAL.png" group-title="UK| UK ASIA",|UK| ASIA-  PTV GLOBAL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50759
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- GEO TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50760
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-TEZ.png" group-title="UK| UK ASIA",|UK| ASIA- GEO TEZ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50761
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ARY%20Digital.png" group-title="UK| UK ASIA",|UK| ASIA- ARY DIGITAL B
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50762
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ATN_Bangla.png" group-title="UK| UK ASIA",|UK| ASIA- ATN BANGLA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50763
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/hum%20nEWS.png" group-title="UK| UK ASIA",|UK| ASIA- Hum news
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50764
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi.
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50765
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/uk%20asie/Sangat-TV.png" group-title="UK| UK ASIA",|UK| ASIA- SANGAT  UK V
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50766
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZING.png" group-title="UK| UK ASIA",|UK| ASIA-  ZING
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50767
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/AAP-NEWS.png" group-title="UK| UK ASIA",||PK|| AAP NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50768
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/akaal-channel.png" group-title="UK| UK ASIA",|UK| ASIA- AKAAL CHANNEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50769
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/AAJNEWS.png" group-title="UK| UK ASIA",|UK| ASIA- AAJ NEWS LIVE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50770
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/akaal-channel.png" group-title="UK| UK ASIA",|UK| ASIA- AKAAL CHANNEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50771
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/b4U.png" group-title="UK| UK ASIA",|UK| ASIA- B4U MOVIE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50772
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/british%20muslim.png" group-title="UK| UK ASIA",|UK| ASIA- BRITISH MUSLIM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50773
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- GEO NEWS UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50774
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/uk%20asie/PEACE-TV.png" group-title="UK| UK ASIA",|UK| ASIA- PEACE TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50775
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50776
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sikh%20channel.png" group-title="UK| UK ASIA",|UK| ASIA- SIKH CHANNEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50777
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/takbear%20tv.png" group-title="UK| UK ASIA",|UK| ASIA- TAKBEAR TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50778
+#EXTINF:-1 group-title="Sneh HINDI",AMAR UJALA (IN)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg",NEWS 18 INDIA (IN)
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SBYqpwbuR2k/YOrMeZg8RiI/AAAAAAAAATA/e-bShHJC24I5-uRH60Oj8r9AhsqswtNlACLcBGAsYHQ/s200/images%2B%252812%2529.jpeg" group-title="https://1.bp.blogspot.com/-SBYqpwbuR2k/YOrMeZg8RiI/AAAAAAAAATA/e-bShHJC24I5-uRH60Oj8r9AhsqswtNlACLcBGAsYHQ/s200/images%2B%252812%2529.jpeg",INDIA TV (IN)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CrTYIGmPbYs/YOrMrSJTr7I/AAAAAAAAATE/E722E8LYSPYfSpbVKJGaU3MsNSQpLleSwCLcBGAsYHQ/s200/images%2B%252813%2529.jpeg" group-title="https://1.bp.blogspot.com/-CrTYIGmPbYs/YOrMrSJTr7I/AAAAAAAAATE/E722E8LYSPYfSpbVKJGaU3MsNSQpLleSwCLcBGAsYHQ/s200/images%2B%252813%2529.jpeg",NDTV INDIA (IN)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",SONY MAX (IN)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",B4U HITS (IN)
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",B4U MUSIC (IN)
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",B4U MOVIES (IN)
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",DISHUM TV (IN)
+http://14.199.164.20:4001/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",E24 (IN)
+http://14.199.164.20:4001/play/a0pc/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",FOOD FOOD (IN)
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",MUSIC INDIA (IN)
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",MASTIII (IN)
+http://14.199.164.20:4001/play/a0my/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",SHRI NAVGRAH CHANNEL (IN)
+http://14.199.164.20:4001/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",SARV DHARM SANGAM (IN)
+http://14.199.164.20:4001/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI",DHINCHAAK (IN)
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Sneh HINDI Entertainment",STAR_BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="Sneh HINDI Entertainment",STAR_BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="Sneh HINDI Entertainment",STAR_BHARAT (IN)
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh HINDI Entertainment",SONY_SAB (IN)
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8?samitv
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-275/channel_web/1170x658withlog_1850271375.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-275/channel_web/1170x658withlog_1850271375.png",India News UP
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-275
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-276/channel_web/1170x658withlogo_324814827.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-276/channel_web/1170x658withlogo_324814827.png",India News Rajasthan
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-276
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-277/channel_web/1170x658withlog_1336270103.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-277/channel_web/1170x658withlog_1336270103.png",India News MP
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-277
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-278/channel_web/1170x658withlog_1582071351.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-278/channel_web/1170x658withlog_1582071351.png",India News Haryana
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-278
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-279/channel_web/1170x658withlogo_1805050.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-279/channel_web/1170x658withlogo_1805050.png",India News Gujarat
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-279
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093.png",Living India
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-305
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-417/channel_web/1170x658_560606826.png" group-title="https://akamaividz2.zee5.com/image/upload/resources/0-9-417/channel_web/1170x658_560606826.png",News1 India
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-417
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/8045.QIndiaTV.in/en/1x1/208x208/test_pic1601378980873.jpg" group-title="https://j2apps.s.llnwi.net/pic/8045.QIndiaTV.in/en/1x1/208x208/test_pic1601378980873.jpg",THE Q
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/7043.News1India.in/en/1x1/208x208/test_pic1588701259991.jpg" group-title="https://j2apps.s.llnwi.net/pic/7043.News1India.in/en/1x1/208x208/test_pic1588701259991.jpg",News 1 India
+https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/8008.BuletinNews.in/en/1x1/208x208/test_pic1633413269372.jpg" group-title="https://j2apps.s.llnwi.net/pic/8008.BuletinNews.in/en/1x1/208x208/test_pic1633413269372.jpg",Buletin India
+https://m-c050-j2apps.s.llnwi.net/hls/8008.BuletinNews.in.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/8042.UpdateIndia.in/en/1x1/208x208/test_pic1612792182325.jpg" group-title="https://j2apps.s.llnwi.net/pic/8042.UpdateIndia.in/en/1x1/208x208/test_pic1612792182325.jpg",Update India
+https://m-c09-j2apps.s.llnwi.net/hls/8042.UpdateIndia.in.m3u8
+#EXTINF:-1 group-title="Sneh Regional",CINEMA TV INDIA
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="Sneh Regional",NEWS INDIA 24X7
+http://14.199.164.20:4001/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="Sneh Regional",NON-STOP SAMACHAR INDIA
+http://14.199.164.20:4001/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="Sneh Regional",News 1 India
+http://14.199.164.20:4001/play/a0o9/index.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Lata Mangeshkar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Asha Bhosle Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Musical Matinees Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/musical_matinees/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Night Lounge Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",English Love
+https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1 group-title="Sneh RADIO | Hindi",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
